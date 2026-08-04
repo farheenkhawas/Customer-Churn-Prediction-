@@ -144,11 +144,11 @@ I am an AI Enthusiast and  Data science & ML practitioner
 
 [1]: https://github.com/farheenkhawas
 [2]: https://www.linkedin.com/in/farheenkhawas/
-[3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
 
 
 
-[![twitter](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4]
+
+
 
 
 
