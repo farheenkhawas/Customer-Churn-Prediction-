@@ -1,16 +1,10 @@
 <div align="right">
   
 
-
-
-
 </div>
 
 
 # <div align="center">Telecom Customer Churn Prediction</div>
-
-
-
 
 ## What is Customer Churn?
 Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service.
@@ -133,7 +127,7 @@ We could use Hyperparamete Tuning or Feature enginnering methods to improve the 
 
 ### Feedback
 
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
+If you have any feedback, please reach out at farheenkhawas@gmail.com
 
 
 
